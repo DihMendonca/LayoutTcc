@@ -2,7 +2,7 @@
 <div>
 <nav class="navbar navbar-dark bg-dark shadow">
   <div class="container-fluid">
-    <span class="navbar-brand mb-0 h1">Menu App</span>
+    <span class="navbar-brand mb-0 h1">Menu</span>
 
     <button class="navbar-toggler" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal">
       <span class="navbar-toggler-icon"></span>
@@ -20,11 +20,11 @@
       <div class="modal-body">
 
         <ul class="list-group list-group-flush">
-          <a href="https://www.tudogostoso.com.br/receita/876-lasanha-de-carne-moida.html"><li class="list-group-item">LASANHA</li></a>
-          <a href="https://gshow.globo.com/RPC/receitas-paranaenses/receitas/receita-de-massa-facil-de-pizza.ghtml"><li class="list-group-item">PIZZA</li></a>
-          <a href="https://www.receiteria.com.br/receita/esfiha-aberta-de-carne-moida/"><li class="list-group-item">ESFIHA</li></a>
-          <a href="https://receitas.band.uol.com.br/minha-receita/noticias/coxinha-origem-do-salgado-que-e-paixao-nacional-pode-ser-a-franca-entenda-16350554"><li class="list-group-item">COXINHA</li></a>
-          <a href="https://acaidamata.net/exportacao-de-acai-do-para/"><li class="list-group-item">AÇAI</li></a>
+          <a href="https://www.inpower.com.br/hardware/placas-mae"><li class="list-group-item"><b>Placa Mãe</b></li></a>
+          <a href="https://www.eletrum.com.br/informatica-e-tablet/monitores-e-projetores?map=c,c&O=OrderByReleaseDateDESC&gclid=EAIaIQobChMIsK-jk6Pb9wIVSuZcCh0Tpw2REAAYASAAEgIzuPD_BwE"><li class="list-group-item"><b>Monitor</b></li></a>
+          <a href="https://www.terabyteshop.com.br/hardware/placas-de-video"><li class="list-group-item"><b>Placa De Vídeo</b></li></a>
+          <a href="https://www.hdstore.com.br/hd-ssd-pendrive-dvd-rw-e-cartao-de-memoria?gclid=EAIaIQobChMIyrGEyKPb9wIVjXxvBB0tnQJmEAAYASAAEgINlvD_BwE"><li class="list-group-item"><b>SSD</b></li></a>
+          <a href="https://www.mundoware.com.br/c/nobreak?gclid=EAIaIQobChMIhJjC8KTb9wIVOhXUAR23cQ0ZEAAYASAAEgKS0fD_BwE"><li class="list-group-item"><b>Nobreak</b></li></a>
         </ul>
 
       </div>

@@ -20,7 +20,7 @@ body {
   width: 300px;
 }
 .list-group-item:hover {
-  background-color: rgba(59, 57, 57, 0.164) !important;
+background-color: lightblue;
 }
   
     
