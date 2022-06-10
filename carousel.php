@@ -40,7 +40,7 @@
       <img src="https://s2.glbimg.com/yznzqr0XEWk3weOgP7RgcAdZGFg=/0x0:984x689/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/S/e/sPwkpLSv6rB73VBnD6qw/intel1.jpg" class="d-block w-25" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="https://adrenaline.com.br/uploads/chamadas/Coffee-Lake-Intel_chamada.jpg" class="d-block w-25" alt="...">
+      <img src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Intel_12th_Gen_Mobile_3.jpg" class="d-block w-25" alt="...">
     </div>
     </center>
   </div>
